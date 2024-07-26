@@ -1,0 +1,50 @@
+.welcome-block {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.welcome-block h2 {
+    color: #007bff;
+}
+
+.welcome-block p {
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
+
+.annonces-block {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    object-fit: cover;
+}
+
+.footer-sticky {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.search-block {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.search-block input {
+    flex: 1;
+}
+
+.search-block button {
+    flex-shrink: 0;
+}
